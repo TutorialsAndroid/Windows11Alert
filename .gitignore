@@ -1,0 +1,6 @@
+.env
+build/
+dist/
+Output/
+uninstaller.spec
+Windows11Alert.spec
