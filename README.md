@@ -259,59 +259,6 @@ __pycache__/
 
 ---
 
-Use this improved top section and add **Contributions** section near the bottom.
-
-Replace your README starting section with this:
-
-```markdown
-# Windows11Alert 🚀
-
-<p align="center">
-  <img src="icons/alert.ico" width="90" alt="Windows11Alert Icon" />
-</p>
-
-<h2 align="center">Windows11Alert</h2>
-
-<p align="center">
-  A lightweight Windows utility that sends Telegram alerts when your PC starts and reports previous shutdown/restart details on the next startup.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Telegram-Bot%20API-2CA5E0?style=for-the-badge&logo=telegram" />
-  <img src="https://img.shields.io/badge/Installer-Inno%20Setup-purple?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/TutorialsAndroid/Windows11Alert/releases/latest">
-    <img src="https://img.shields.io/badge/Download%20EXE-Windows11Alert_Setup.exe-success?style=for-the-badge&logo=windows" alt="Download EXE" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/TutorialsAndroid/Windows11Alert/releases/latest">
-    <strong>⬇️ Download Latest Windows Installer</strong>
-  </a>
-</p>
-
----
-
-## 📌 Overview
-
-**Windows11Alert** is a lightweight Windows monitoring utility that sends Telegram alerts when your PC starts.
-
-It also checks Windows Event Logs to detect the previous shutdown/restart event and sends that information on the next startup.
-
-This tool is useful for monitoring when a Windows PC is turned on, restarted, or previously shut down.
-```
-
-Important: change this GitHub link if your repo URL is different:
-
-```text
-https://github.com/TutorialsAndroid/Windows11Alert/releases/latest
-```
-
 ## 🤝 Contributions Are Welcome
 
 Contributions are welcome and appreciated.
