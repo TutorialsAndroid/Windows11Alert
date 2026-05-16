@@ -18,13 +18,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/TutorialsAndroid/Windows11Alert/releases/latest">
+  <a href="https://github.com/TutorialsAndroid/Windows11Alert/releases/download/v1.0.0/Windows11Alert_Setup.exe">
     <img src="https://img.shields.io/badge/Download%20EXE-Windows11Alert_Setup.exe-success?style=for-the-badge&logo=windows" alt="Download EXE" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/TutorialsAndroid/Windows11Alert/releases/latest">
+  <a href="https://github.com/TutorialsAndroid/Windows11Alert/releases/download/v1.0.0/Windows11Alert_Setup.exe">
     <strong>⬇️ Download Latest Windows Installer</strong>
   </a>
 </p>
